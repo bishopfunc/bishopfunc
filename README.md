@@ -3,30 +3,30 @@ Hi, I'm an Master student major in Computer Science at the Waseda University, Ja
 
 ## 🌱 my skills
 ### Languages
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=python,c,cpp,typescript,javascript,golang,html,css,java" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=python,c,cpp,typescript,javascript,golang,html,css,java" />
 
 ### Machine Learning and Robotics
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=pytorch,opencv,ros" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=pytorch,opencv,ros" />
 
 ### Frontend
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=jquery,react,nextjs,tailwindcss,figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=jquery,react,nextjs,tailwindcss,figma" />
 
 ### Backend
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=nodejs,express,fastapi,flask,django,prisma,postgresql,mysql" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=nodejs,express,fastapi,flask,django,prisma,postgresql,mysql" />
 
 ### Infrastructure and DevOps
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=netlify,vercel,firebase,aws,gcp,linux,docker,kubernetes,git,github,githubactions" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=netlify,vercel,firebase,aws,gcp,linux,docker,kubernetes,git,github,githubactions" />
 
 ### Mobile, Desktop and Game
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=flutter,electron,unity" />
-
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=10&i=flutter,electron,unity" />
 
 ## 📈 Status
 <!-- [![Followers](https://badgen.org/img/zenn/bishopfunc/followers?style=flat)](https://zenn.dev/bishopfunc) -->
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishopfunc&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=bishopfunc" />
+  <img alt="Top Langs" height="150px" src=https://github-readme-stats-11b3q4kqw-bishopfuncs-projects.vercel.app/api/top-langs/?username=bishopfunc&layout=compact&show_icons=true" />
+
+  <img alt="github stats" height="150px" src="https://github-readme-stats-11b3q4kqw-bishopfuncs-projects.vercel.app/api?username=bishopfunc" />
 </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=bishopfunc&margin-w=5)](https://github.com/bishopfunc/) -->
