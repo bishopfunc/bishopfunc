@@ -24,10 +24,9 @@ Hi, I'm an Master student major in Computer Science at the Waseda University, Ja
 <!-- [![Followers](https://badgen.org/img/zenn/bishopfunc/followers?style=flat)](https://zenn.dev/bishopfunc) -->
 
 <p align="left"> 
-<!--   <img alt="Top Langs" height="150px" src=https://github-readme-stats-11b3q4kqw-bishopfuncs-projects.vercel.app/api/top-langs/?username=&count_private=true&layout=compact&show_icons=true" />
- -->
-<!--   <img alt="github stats" height="150px" src="https://github-readme-stats-11b3q4kqw-bishopfuncs-projects.vercel.app/api?username=&count_private=true&include_all_commits=true" />
-</p> -->
+  <img alt="Top Langs" height="150px" src=https://github-readme-stats-11b3q4kqw-bishopfuncs-projects.vercel.app/api/top-langs/?username=bishopfunc&count_private=true&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-11b3q4kqw-bishopfuncs-projects.vercel.app/api?username=bishopfunc&count_private=true&include_all_commits=true" />
+</p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=bishopfunc&margin-w=5)](https://github.com/bishopfunc/) -->
 
